@@ -1,0 +1,6 @@
+C:\Users\david\source\repos\T02.Aplicacion Interface\T02.Aplicacion Interface\bin\Debug\T02.Aplicacion Interface.exe.config
+C:\Users\david\source\repos\T02.Aplicacion Interface\T02.Aplicacion Interface\bin\Debug\T02.Aplicacion Interface.exe
+C:\Users\david\source\repos\T02.Aplicacion Interface\T02.Aplicacion Interface\bin\Debug\T02.Aplicacion Interface.pdb
+C:\Users\david\source\repos\T02.Aplicacion Interface\T02.Aplicacion Interface\obj\Debug\T02.Aplicacion Interface.csprojAssemblyReference.cache
+C:\Users\david\source\repos\T02.Aplicacion Interface\T02.Aplicacion Interface\obj\Debug\T02.Aplicacion Interface.exe
+C:\Users\david\source\repos\T02.Aplicacion Interface\T02.Aplicacion Interface\obj\Debug\T02.Aplicacion Interface.pdb
